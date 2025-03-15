@@ -57,7 +57,7 @@ I'm always exploring **emerging technologies**, contributing to **open-source pr
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MugeshS-04&theme=react-dark&hide_border=true" />
 </p>
-
+<br>
 ---
 
 <!-- Contact -->
