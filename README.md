@@ -4,6 +4,8 @@
 🚀 Full-Stack Developer | 🎮 Game Designer | 🕶️ VR Developer | 🎨 3D Artist
 </p>
 
+---
+
 <!-- About Me -->
 ## 🛠️ About Me  
 I am a passionate **Full-Stack Developer** and **Game Designer** specializing in **VR development, animation, and interactive experiences**.  
@@ -15,8 +17,8 @@ I'm always exploring **emerging technologies**, contributing to **open-source pr
 
 <!-- Skills -->
 ## 🏆 Skills & Tools  
-**Languages & Frameworks**  
-<p align="left">
+### **Languages & Frameworks**  
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
@@ -27,15 +29,15 @@ I'm always exploring **emerging technologies**, contributing to **open-source pr
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 </p>  
 
-**Game Development & 3D Tools**  
-<p align="left">
+### **Game Development & 3D Tools**  
+<p align="center">
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" />
 </p>  
 
-**Databases & Cloud**  
-<p align="left">
+### **Databases & Cloud**  
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
 </p>  
@@ -45,9 +47,11 @@ I'm always exploring **emerging technologies**, contributing to **open-source pr
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://readme-stats-fork-mauve.vercel.app/api?username=MugeshS-04&theme=dark&show_icons=true&count_private=true" />
-  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=MugeshS-04&theme=dark" />
-  <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=MugeshS-04&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6" />
+  <img src="https://readme-stats-fork-mauve.vercel.app/api?username=MugeshS-04&theme=dark&show_icons=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=MugeshS-04&theme=dark" width="50%" height="110%"/>
+</p>  
+<p align="center">
+  <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=MugeshS-04&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6" width="40%" />
 </p>
 
 ---
@@ -55,10 +59,8 @@ I'm always exploring **emerging technologies**, contributing to **open-source pr
 <!-- Contribution Graph -->
 ## 🚀 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MugeshS-04&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MugeshS-04&theme=react-dark&hide_border=true" width="90%" />
 </p>
-<br>
----
 
 <!-- Contact -->
 ## 📬 Connect with Me  
@@ -73,4 +75,4 @@ I'm always exploring **emerging technologies**, contributing to **open-source pr
 
 ---
 
-🔥 **Let's build something amazing together!**
+🔥 **Let's build something amazing together!**  
