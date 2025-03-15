@@ -1,30 +1,83 @@
-## About Me
+<!-- Header -->
+<h1 align="center">Hi, I'm Mugesh 👋</h1>
+<p align="center">
+🚀 Full-Stack Developer | 🎮 Game Designer | 🕶️ VR Developer | 🎨 3D Artist
+</p>
 
-Hi, I'm **Mugesh**, a Full-Stack Developer and Game Designer specializing in VR development, animation, and immersive experiences. I build scalable applications and interactive environments, blending technology with creativity. Passionate about learning new tools, I explore emerging trends, contribute to open-source projects, and share knowledge with the developer community. With a strong foundation in both frontend and backend technologies, I enjoy crafting seamless digital experiences.
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MugeshS-04&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
 
-## My Skills
+---
 
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
-<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"> 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
-<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
-<img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white"> 
-<img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"> 
+<!-- About Me -->
+## 🛠️ About Me  
+I am a passionate **Full-Stack Developer** and **Game Designer** specializing in **VR development, animation, and interactive experiences**.  
+With a strong foundation in both frontend and backend technologies, I craft **scalable applications** and **immersive environments**.  
 
-## GitHub Stats
+I'm always exploring **emerging technologies**, contributing to **open-source projects**, and sharing knowledge with the developer community.  
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=MugeshS-04&theme=dark&show_icons=true&count_private=true"><br>
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=MugeshS-04&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=MugeshS-04&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+---
 
-## Connect with me
+<!-- Skills -->
+## 🏆 Skills & Tools  
+**Languages & Frameworks**  
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+</p>  
 
-<p align="center">🔗 LinkedIn: <a href="linkedin.com/in/mugeshselvaraj2004/" target="_blank">MUGESH SELVARAJ</a> Email: mukeshselvaraj004@gmail.com</p>
+**Game Development & 3D Tools**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" />
+</p>  
+
+**Databases & Cloud**  
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+</p>  
+
+---
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://readme-stats-fork-mauve.vercel.app/api?username=MugeshS-04&theme=dark&show_icons=true&count_private=true" />
+  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=MugeshS-04&theme=dark" />
+  <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=MugeshS-04&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6" />
+</p>
+
+---
+
+<!-- Contribution Graph -->
+## 🚀 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MugeshS-04&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+<!-- Contact -->
+## 📬 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/mugeshselvaraj2004/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>  
+  <a href="mailto:mukeshselvaraj004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>  
+</p>
+
+---
+
+🔥 **Let's build something amazing together!**
