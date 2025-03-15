@@ -4,13 +4,6 @@
 🚀 Full-Stack Developer | 🎮 Game Designer | 🕶️ VR Developer | 🎨 3D Artist
 </p>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MugeshS-04&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
----
-
 <!-- About Me -->
 ## 🛠️ About Me  
 I am a passionate **Full-Stack Developer** and **Game Designer** specializing in **VR development, animation, and interactive experiences**.  
