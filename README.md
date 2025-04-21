@@ -26,7 +26,6 @@ I'm always exploring **emerging technologies**, contributing to **open-source pr
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 </p>  
 
 ### **Game Development & 3D Tools**  
