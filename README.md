@@ -31,7 +31,7 @@ I'm always exploring **emerging technologies**, contributing to **open-source pr
 ### **Game Development & 3D Tools**  
 <p align="center">
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" />
 </p>  
 
