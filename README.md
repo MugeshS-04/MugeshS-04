@@ -13,10 +13,8 @@
 <div>
 
 - 🔭 Currently working on **VR/AR Applications**
-- 🌱 Learning **Advanced Game Development & AI Integration** 
-- 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Full-Stack Development, Game Design, VR**
-- ⚡ Fun fact: **I turn coffee into code and ideas into reality!**
+- 🌱 Learning **Advanced Game Development & AI Integration** 
 - 🎯 Goal: **Creating immersive digital experiences that matter**
 - 🌟 Always exploring **cutting-edge technologies**
 
